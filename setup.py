@@ -12,7 +12,7 @@ setup(
 	version=version,
 	description='ERPNext Whitelabel',
 	author='Bhavesh Maheshwari',
-	author_email='maheshwaribhavesh95863@gmail.com',
+	author_email='hello@thinkfortune.co',
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
